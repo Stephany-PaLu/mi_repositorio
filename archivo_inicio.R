@@ -9,3 +9,6 @@
 
 #Multiplicación
 5*15
+
+#Division
+5/2
